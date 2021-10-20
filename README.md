@@ -50,7 +50,7 @@ Acara ini bebas untuk siapa saja baik untuk pemula hingga professional sekalipun
         <a href="https://github.com/yosadade">
             <img src="https://avatars.githubusercontent.com/u/50354520?v=4" width="100;" alt="yosadade"/>
             <br />
-            <sub><b>Yosa Dade</b></sub>
+            <sub><b>Yosada Dade</b></sub>
         </a>
     </td>
  </tr>
